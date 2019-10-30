@@ -4,7 +4,7 @@ This template is based on the workflow description and project layout from [Data
 
 One day I may even document this, but for now you'd be better off using someone else's template.  
 
-`
+```
 ├── data
 │   ├── 01_raw
 │   ├── 02_intermediate
@@ -30,7 +30,7 @@ One day I may even document this, but for now you'd be better off using someone 
     ├── d06_reporting
     ├── d06_visualization
     └── __init__.py
-`
+```
 
 There are README files in each empty folder to force git to add them to the repository.
 
